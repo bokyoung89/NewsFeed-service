@@ -1,1 +1,1 @@
-# newsfeed-service
+# NewsFeed-service
